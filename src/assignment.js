@@ -26,7 +26,7 @@ console.log(sum_ten([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]));
 
 
 
-assignment.sumOfNumbers = sumOfNumbers;
+// assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
